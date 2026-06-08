@@ -1,0 +1,41 @@
+[
+  {
+    "id": 1,
+    "name": "Swiss Alps Adventure",
+    "location": "Switzerland",
+    "duration": "7 Days / 6 Nights",
+    "price": 2499,
+    "rating": 4.8,
+    "reviews": 124,
+    "type": "Valley",
+    "highlights": ["Cable Car Ride", "Skiing", "Scenic Hiking", "Glacier Tour"],
+    "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=600&q=80",
+    "badge": "Best Seller"
+  },
+  {
+    "id": 2,
+    "name": "Maldives Escape",
+    "location": "Maldives",
+    "duration": "5 Days / 4 Nights",
+    "price": 3199,
+    "rating": 4.9,
+    "reviews": 98,
+    "type": "Hotel",
+    "highlights": ["Overwater Bungalow", "Snorkeling", "Sunset Cruise", "Spa"],
+    "image": "https://images.unsplash.com/photo-1514282401047-d79a71a590e8?w=600&q=80",
+    "badge": "Luxury"
+  },
+  {
+    "id": 3,
+    "name": "Machu Picchu Explorer",
+    "location": "Peru",
+    "duration": "8 Days / 7 Nights",
+    "price": 1899,
+    "rating": 4.7,
+    "reviews": 211,
+    "type": "Heritage",
+    "highlights": ["Inca Trail Trek", "Guided Tours", "Local Cuisine", "Amazon Visit"],
+    "image": "https://images.unsplash.com/photo-1587595431973-160d0d94add1?w=600&q=80",
+    "badge": "Top Rated"
+  }
+]
